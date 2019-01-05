@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>951431051780-u9kqmj4v5nbaao954qi4buu8fveh6fbi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951431051780-u9kqmj4v5nbaao954qi4buu8fveh6fbi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAi7XluvrtfIn7BMauV-NREE3CTpo6FGWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951431051780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yuanqi.UberAppRIder</string>
+	<key>PROJECT_ID</key>
+	<string>uberapp-9bb7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uberapp-9bb7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951431051780:ios:67301d7f92bbfe7b</string>
+	<key>DATABASE_URL</key>
+	<string>https://uberapp-9bb7d.firebaseio.com</string>
+</dict>
+</plist>
